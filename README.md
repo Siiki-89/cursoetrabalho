@@ -20,9 +20,19 @@ A ideia principal do projeto era auxiliar pessoas com baixa renda a encontrarem 
 # Screenshots
 
 <p align="center">
-  <img src="assets/images/login.png" width="200"/>
-  <img src="assets/images/curso.png" width="200"/>
-  <img src="assets/images/trabalho.png" width="200"/>
+  <img src="assets/images/login.png" width="900"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="assets/images/curso.png" width="900"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="assets/images/trabalho.png" width="900"/>
 </p>
 
 # Funcionalidades
