@@ -17,7 +17,13 @@ O sistema funciona como uma plataforma de anúncios, onde:
 
 A ideia principal do projeto era auxiliar pessoas com baixa renda a encontrarem oportunidades de capacitação e trabalho de forma simples e acessível.
 
----
+# Screenshots
+
+<p align="center">
+  <img src="assets/images/login.png" width="200"/>
+  <img src="assets/images/curso.png" width="200"/>
+  <img src="assets/images/trabalho.png" width="200"/>
+</p>
 
 # Funcionalidades
 
